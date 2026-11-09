@@ -3,12 +3,14 @@ A LabWC build designed for Void and Neko Void, intended to be lightweight, modul
 
 
 # Screenshot
-<img width="1823" height="1023" alt="screenshot_20260902_155018-region" src="https://github.com/user-attachments/assets/8dda2305-e69f-4ebf-a37a-8bc5de10c71b" />
+<img width="1823" height="1023" alt="image" src="https://github.com/user-attachments/assets/36e481f0-cddd-4854-a748-bcc758b4cf97" />
+
 
 # Deps
 
 ```
 foot
+pixelitos icon theme
 adw-theme or similar
 dbus
 kanshi
