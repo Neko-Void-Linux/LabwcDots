@@ -10,7 +10,7 @@ A LabWC build designed for Void and Neko Void, intended to be lightweight, modul
 
 ```
 foot
-pixelitos icon theme
+pixora icon theme
 adw-theme or similar
 dbus
 kanshi
