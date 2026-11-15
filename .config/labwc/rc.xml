@@ -59,7 +59,7 @@
       <action name="Execute" command="foot" />
     </keybind>
     <keybind key="W-e">
-      <action name="Execute" command="caja" />
+      <action name="Execute" command="pcmanfm" />
     </keybind>
     <keybind key="W-b">
       <action name="Execute" command="firefox" />
